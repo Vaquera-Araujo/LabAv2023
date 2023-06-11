@@ -3,7 +3,7 @@
 Lagrangian mechanics is a powerful formulation of classical mechanics that provides a concise and elegant description of the dynamics of physical systems. It was developed by Joseph-Louis Lagrange in the late 18th century and has since become an essential tool in many areas of physics and engineering.
 
 ## Lagrangian Function
-The cornerstone of Lagrangian mechanics is the concept of a Lagrangian function, denoted by L. The Lagrangian is defined as the difference between the kinetic energy T and the potential energy V of a system: L = T - V. It is a function of the generalized coordinates qi, their time derivatives qi̇, and time t. The generalized coordinates qi describe the configuration of the system and can be, for example, the positions or angles of the system's degrees of freedom.
+The cornerstone of Lagrangian mechanics is the concept of a Lagrangian function, denoted by $L$. The Lagrangian is defined as the difference between the kinetic energy $T$ and the potential energy $V$ of a system: $L = T - V$. It is a function of the generalized coordinates $q_i$, their time derivatives $\dot{q}_i$, and time $t$. The generalized coordinates qi describe the configuration of the system and can be, for example, the positions or angles of the system's degrees of freedom.
 
 ## Principle of Least Action
 The central idea in Lagrangian mechanics is the principle of least action. According to this principle, the motion of a physical system between two points in time is such that the action integral is minimized. The action S is defined as the integral of the Lagrangian over time: S = ∫ L(qi, qi̇, t) dt.
