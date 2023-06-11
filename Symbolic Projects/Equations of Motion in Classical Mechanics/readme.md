@@ -11,7 +11,7 @@ The central idea in Lagrangian mechanics is the principle of least action. Accor
 ## Euler-Lagrange Equations
 The Euler-Lagrange equations are a set of second-order differential equations that describe the equations of motion of a system derived from the principle of least action. They are obtained by varying the action with respect to each generalized coordinate $q_i$ while keeping the other coordinates fixed. The Euler-Lagrange equations have the form:
 
-\frac{d}{dt} \left( \frac{\partial \mathcal{L}}{\partial \dot{q}_i} \right) - \frac{\partial \mathcal{L}}{\partial q_i} = 0
+$\frac{d}{dt} \left( \frac{\partial \mathcal{L}}{\partial \dot{q}_i} \right) - \frac{\partial \mathcal{L}}{\partial q_i} = 0$
 
 These equations provide a systematic and elegant way to determine the equations of motion for a wide range of physical systems. Solving the Euler-Lagrange equations yields the trajectories of the system's degrees of freedom as functions of time.
 
