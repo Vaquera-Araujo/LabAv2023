@@ -1,5 +1,7 @@
 # Lagrangian Mechanics and Euler-Lagrange Equations
 
+## Introduction
+
 Lagrangian mechanics is a powerful formulation of classical mechanics that provides a concise and elegant description of the dynamics of physical systems. It was developed by Joseph-Louis Lagrange in the late 18th century and has since become an essential tool in many areas of physics.
 
 ## Lagrangian Function
