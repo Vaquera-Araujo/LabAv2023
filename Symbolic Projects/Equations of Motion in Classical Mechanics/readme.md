@@ -6,7 +6,7 @@ Lagrangian mechanics is a powerful formulation of classical mechanics that provi
 The cornerstone of Lagrangian mechanics is the Lagrangian function, denoted by $L$. The Lagrangian is defined as the difference between the kinetic energy $T$ and the potential energy $V$ of a system: $L = T - V$. It is a function of the generalized coordinates $q_i$, their time derivatives $\dot{q}_i$, and time $t$. The generalized coordinates $q_i$ are the independent degrees of freedom needed to describe the configuration of the system.
 
 ## Principle of Least Action
-The central idea in Lagrangian mechanics is the principle of least action. According to this principle, the motion of a physical system between two points in time is such that the action integral is minimized. The action $S$ is defined as the integral of the Lagrangian over time:  $S = \int_{t_1}^{t_2} \mathcal{L}(q_i, \dot{q}_i, t) \, dt$.
+The central idea in Lagrangian mechanics is the principle of least action. According to this principle, the motion of a physical system between two points in time is such that the action integral is minimized. The action $S$ is defined as the integral of the Lagrangian over time:  $S = \int_{t_1}^{t_2}  dt \mathcal{L}(q_i, \dot{q}_i, t)$.
 
 ## Euler-Lagrange Equations
 The Euler-Lagrange equations are a set of second-order differential equations that describe the equations of motion of a system derived from the principle of least action. They are obtained by varying the action with respect to each generalized coordinate $q_i$ while keeping the other coordinates fixed. The Euler-Lagrange equations have the form:
@@ -32,14 +32,14 @@ The key idea behind the Euler-Lagrange equations is the variational principle. A
 
 Mathematically, we consider a variation of the field $\phi$ as $\phi \rightarrow \phi + \delta \phi$, where $\delta \phi$ is an infinitesimal change in the field. The variation of the action $\delta S$ is given by:
 
-$ \delta S = \int d^4x \left( \frac{\partial \mathcal{L}}{\partial \phi} \delta \phi + \frac{\partial \mathcal{L}}{\partial (\partial_{\mu} \phi)} \delta (\partial_{\mu} \phi) \right)  $
+$\delta S=\int d^4x \left( \frac{\partial \mathcal{L}}{\partial \phi} \delta \phi + \frac{\partial \mathcal{L}}{\partial (\partial_{\mu} \phi)} \delta (\partial_{\mu} \phi) \right)$
 
 where $\partial_{\mu}$ represents the partial derivative with respect to the space-time coordinate $x^{\mu}$. 
 
 ## Derivation of Euler-Lagrange Equations
 To derive the Euler-Lagrange equations, we impose the condition that the action is stationary, i.e., $\delta S = 0$, for arbitrary variations $\delta \phi$. Using the principle of least action, we obtain:
 
-$ \frac{\partial \mathcal{L}}{\partial \phi} - \partial_{\mu} \left( \frac{\partial \mathcal{L}}{\partial (\partial_{\mu} \phi)} \right) = 0 $
+$ \frac{\partial \mathcal{L}}{\partial \phi}-\partial_{\mu} \left( \frac{\partial \mathcal{L}}{\partial (\partial_{\mu} \phi)} \right) = 0$
 
 These are the Euler-Lagrange equations for the field $\phi$ in classical field theory. They represent a set of second-order partial differential equations that govern the dynamics of the field.
 
