@@ -23,7 +23,7 @@ Classical field theory provides a mathematical framework to describe the behavio
 ## The Action Principle in Field Theory
 The starting point of classical field theory is the action principle. The action $S$, is defined as the integral of the Lagrangian density, $\mathcal{L}$, over the space-time volume:
 
-$ S = \int d^4x \mathcal{L}  $
+$S=\int d^4x \mathcal{L}$
 
 where $d^4x$ represents the infinitesimal volume element in 4-dimensional Minkowski spacetime, and $x^{\mu}$, $\mu=1,\dots,4$ are the space-time coordinates.
 
