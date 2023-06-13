@@ -53,7 +53,7 @@ Coplanar double pendulum
 
 
 
-[coplanar_double_pendulum.ipynb](https://github.com/username/repoName/somePathTo/myExampleCode](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.ipynb)
+[coplanar_double_pendulum.ipynb][https://github.com/username/repoName/somePathTo/myExampleCode](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.ipynb]
 
 
 
