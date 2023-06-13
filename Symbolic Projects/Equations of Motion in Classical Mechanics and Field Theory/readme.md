@@ -50,7 +50,8 @@ The Euler-Lagrange equations are a powerful tool in classical field theory, allo
 
 ## Examples
 Coplanar double pendulum
-[coplanar]([https://github.com/username/repoName/somePathTo/myExampleCode](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.ipynb))
+
+[coplanar]([https://github.com/username/repoName/somePathTo/myExampleCode](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.ipynb)
 
 
 
