@@ -49,10 +49,11 @@ These are the Euler-Lagrange equations for the field $\phi$ in classical field t
 The Euler-Lagrange equations are a powerful tool in classical field theory, allowing us to determine the equations of motion for fields based on the principle of least action. By solving these equations, we can study the behavior of various fields and make predictions about their interactions in the physical world.
 
 ## Examples
-Coplanar double pendulum
+Coplanar double pendulum:
+![Diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
 [coplanar_double_pendulum.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.ipynb)
 
-![Diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
+
 
 
 Klein-Gordon field equation of motion
