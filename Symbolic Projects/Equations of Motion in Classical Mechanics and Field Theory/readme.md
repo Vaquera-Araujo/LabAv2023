@@ -66,7 +66,7 @@ The Euler-Lagrange equations are a powerful tool in classical field theory, allo
 
 ### Maxwell equations from an action principle:
 
-[Maxwell.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/electromagnetic_field.ipynb)
+[electromagnetic_field.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/electromagnetic_field.ipynb)
 
 
 
