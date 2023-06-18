@@ -67,7 +67,7 @@ for the normal coordinates $\ket{\zeta}=O_W^TM_D^{1/2}O_M^T\ket{x}\equiv S^{-1}\
 $\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+v_i t$ for the zero frequency modes with $\omega_i=0$.
 
 ## Examples
-### Coplanar double pendulum:
+### Small oscillations double pendulum:
 
 ![Diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
 
