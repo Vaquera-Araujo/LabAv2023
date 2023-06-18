@@ -16,3 +16,7 @@ $\dot{q}_i = \frac{\partial H}{\partial p_i} \quad \text{and} \quad \dot{p}_i = 
 where $\dot{q}_i$ and $\dot{q}_i$ represent the time derivatives of the canonical variables.
 
 The canonical equations provide an equivalent description of the system's dynamics and constitute a significant improvement, since they are a system of first order equations instead of second order, and they are written in a more symmetric set of variables. 
+
+## Examples:
+
+[double_pendulum_hamiltonian](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/double_pendulum_hamiltonian.ipynb)
