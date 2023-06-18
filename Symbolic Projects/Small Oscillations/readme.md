@@ -32,7 +32,7 @@ Now, consider a system with $n$ degrees of freedom characterized by the generali
 $L\approx\frac{1}{2}\bra{\dot{x}}M\ket{\dot{x}}-\frac{1}{2}\bra{x}K\ket{x}$,
 
 where $x_i=q_i-q^0_i$ are the components of $\ket{x}$, and we have defined the  
-matrix elements $M_{ij}= a_{ij}(q^0_l)$, and $k_{ij}=\left.\frac{\partial^2U}{\partial q_i\partial q_j}\right|_{q^0_l}$.
+matrix elements of the inertia tensor $M_{ij}= a_{ij}(q^0_l)$, and the harmonic tensor $K_{ij}=\left.\frac{\partial^2U}{\partial q_i\partial q_j}\right|_{q^0_l}$.
 
 The matrices $M$ and $K$ can be diagonalized simultaneously through the following algoritm:
 
