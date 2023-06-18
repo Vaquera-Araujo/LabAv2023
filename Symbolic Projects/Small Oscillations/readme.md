@@ -64,4 +64,4 @@ $\ddot{\zeta}_i+\omega^2\zeta_i=0$,
 
 for the normal coordinates $\ket{\zeta}=O_W^TM_D^{1/2}O_M^T\ket{x}\equiv S^{-1}\ket{x}$, such that $\ket{x}=O_M M_D^{-1/2} O_W \ket{\zeta}\equiv S\ket{\zeta}=S\sum_i[\zeta_i(t)]\ket{e_i}$, where 
 
-$\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega>0$, and $\zeta_i(t)=c_i+v_i t$ for the zero frequency modes with $\omega_i=0$.
+$\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+v_i t$ for the zero frequency modes with $\omega_i=0$.
