@@ -5,7 +5,7 @@ which comprise the generalized coordinates $q_i$ and their canonical momenta $p_
 
 The Hamiltonian function $H(q_i, p_i, t)$ is obtained by a Legendre transformation of the Lagrangian:
 
-$H(q_i, p_i, t) = \sum_{i=1}^{n} p_i \dot{q}_i - L(q_i, \dot{q}_i, t)$
+$H(q_i, p_i, t) = p_i \dot{q}_i - L(q_i, \dot{q}_i, t)$
 
 and describes the total energy of the system as a function of generalized coordinates $q_i$ and momenta $p_i$.
 
