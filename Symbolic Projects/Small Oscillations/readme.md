@@ -28,7 +28,7 @@ or, equivalently
 
 $x(t)=C_1 e^{i\omega t}+C_2 e^{-i\omega t}$
 
-where the constants $C$, $\delta$, $C_1$, $C_2$ are determined by the initial conditions.
+where the constants $C$, $\delta$, $C_1$, and $C_2$ are determined by the initial conditions.
 
 ## Linearized equations of motion
 Now, consider a system with $n$ degrees of freedom characterized by the generalized coordinates $q_i$, with a time independent scalar potential $U(q_i)$ displaying a strict local minimum at $q^0_i$ and rescaled such that $U(q_i^0)=0$. Using a standard particle Lagrangian, the kinetic energy is a quadratic function of the velocities, provided that the generalized coordinates are time-independent functions of the Cartesian coordinates. Then, generalizing the  previous results, the Lagrangian can be approximated to second order in the perturbation expansion around equilibrium by
