@@ -78,6 +78,8 @@ $\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+
 ### Linear Triatomic Molecule
 ![linear triatomic diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Small%20Oscillations/linear_triatomic_molecule.png)
 
+[linear_triatomic_molecule.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Small%20Oscillations/linear_triatomic_molecule.ipynb)
+
 ### Small Oscillations Double pendulum:
 
 ![diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
