@@ -70,8 +70,8 @@ The Euler-Lagrange equations are a powerful tool in classical field theory, allo
 
 ## Challenges
 
-Obtain the equations of motion of the problems 2, 3 and 4 in page 11 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics)
+Obtain the equations of motion for problems 2, 3 and 4, chapter 1 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics)
 L. Landau, and E. Lifshitz. Butterworth-Heinemann, 3 edition, (Jan 15, 1976).
 
-Solve problem 5.2 (a-d) in page 26 of Problem Book in Quantum Field Theory, Voja Radovanovič. Springer, Berlin, Heidelberg. (2008).
+Solve problem 5.2 (a-d) of Problem Book in Quantum Field Theory, Voja Radovanovič. Springer, Berlin, Heidelberg. (2008).
 
