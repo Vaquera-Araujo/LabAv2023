@@ -75,8 +75,11 @@ $\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+
 ### Symbolic solution to the Simple Harmonic Oscillator Equation of Motion
 [solution_simple_harmonic_oscillator.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Small%20Oscillations/solution_simple_harmonic_oscillator.ipynb)
 
-### Small oscillations double pendulum:
+### Linear Triatomic Molecule
+![linear triatomic diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Small%20Oscillations/linear_triatomic_molecule.png)
 
-![Diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
+### Small Oscillations Double pendulum:
+
+![diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
 
 [small_oscillations_double_pendulum.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Small%20Oscillations/small_oscillations_double_pendulum.ipynb)
