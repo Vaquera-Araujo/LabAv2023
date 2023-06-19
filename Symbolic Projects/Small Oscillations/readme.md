@@ -88,6 +88,6 @@ $\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+
 
 ## Challenges
 
-Solve problems 6 and 12 of chapter 6 in Goldstein, Poole, Safko (2001). Classical Mechanics (3rd ed.). Addison-Wesley.
+Solve problems 6 and 12, chapter 6 of Goldstein, Poole, Safko (2001). Classical Mechanics (3rd ed.). Addison-Wesley.
 
-Solve problem 5 of chapter 6 in Finn J.M. Classical Mechanics. Jones & Bartlett Publishers, 2009 
+Solve problem 5, chapter 6 of Finn J.M. Classical Mechanics. Jones & Bartlett Publishers, 2009 
