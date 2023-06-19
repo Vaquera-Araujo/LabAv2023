@@ -85,3 +85,9 @@ $\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+
 ![diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/coplanar_double_pendulum.png) 
 
 [small_oscillations_double_pendulum.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Small%20Oscillations/small_oscillations_double_pendulum.ipynb)
+
+## Challenges
+
+Solve problems 6 and 12 of chapter 6 in Goldstein, Poole, Safko (2001). Classical Mechanics (3rd ed.). Addison-Wesley.
+
+Solve problem 5 of chapter 6 in Finn J.M. Classical Mechanics. Jones & Bartlett Publishers, 2009 
