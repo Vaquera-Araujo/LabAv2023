@@ -68,6 +68,8 @@ The Euler-Lagrange equations are a powerful tool in classical field theory, allo
 
 [electromagnetic_field.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/electromagnetic_field.ipynb)
 
+[bianchi_identity.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/bianchi_identity.ipynb)
+
 ## Challenges
 
 Obtain the equations of motion for problems 2, 3 and 4, chapter 1 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics)
