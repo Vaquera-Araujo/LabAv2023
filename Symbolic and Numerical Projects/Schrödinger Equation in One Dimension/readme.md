@@ -26,3 +26,7 @@ where $\psi$ represents the stationary state wave function, $\hat{H}$ is the Ham
 Solving this equation involves finding the eigenvalues $E$ and the corresponding eigenfunctions $\psi$ of the Hamiltonian operator. The eigenvalues represent the possible energies of the system, while the eigenfunctions represent the corresponding wave functions.
 
 ## Examples
+
+Numerical Solution to the Time Independent Schrödinger equation: Anharmonic Oscillator
+
+[Numerical_Time_Independent_Schrodinger.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/Numerical_Time_Independent_Schrodinger.ipynb)
