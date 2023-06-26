@@ -29,7 +29,7 @@ Solving this equation involves finding the eigenvalues $E$ and the corresponding
 
 Numerical Solution to the Time Independent Schrödinger equation: Anharmonic Oscillator
 
-[numerical_time_independent_schrodinger.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/numerical_time_independent_schrodinger.ipynb)
+[numerical_time_independent_schrodinger_equation.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/numerical_time_independent_schrodinger_equation.ipynb)
 
 Numerical Solution to the Time Dependent Schrödinger Equation: Harmonic Oscillator
 
