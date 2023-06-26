@@ -7,3 +7,5 @@ The notebooks in this section are devoted to the solution of physics problems us
 [Small Oscillations](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Small%20Oscillations/readme.md)
 
 [Hamiltonian Formalism and Canonical Equations](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/readme.md)
+
+[Schrödinger Equation in One Dimension](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/readme.md)
