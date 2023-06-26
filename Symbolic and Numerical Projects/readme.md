@@ -1,4 +1,4 @@
-### Symbolic Projects
+### Symbolic and Numerical Projects
 
 The notebooks in this section are devoted to the solution of physics problems using the python libraries Sympy, Numpy and Scipy.
 
