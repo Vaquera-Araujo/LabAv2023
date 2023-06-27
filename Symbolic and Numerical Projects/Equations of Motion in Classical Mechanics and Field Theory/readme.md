@@ -68,7 +68,7 @@ These are the Euler-Lagrange equations for the field $\phi$ in classical field t
 
 [bianchi_identity.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Equations%20of%20Motion%20in%20Classical%20Mechanics%20and%20Field%20Theory/bianchi_identity.ipynb)
 
-## Challenges
+# Challenges
 
 Obtain the equations of motion for problems 2, 3 and 4, chapter 1 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics)
 L. Landau, and E. Lifshitz. Butterworth-Heinemann, 3 edition, (Jan 15, 1976).
