@@ -19,6 +19,10 @@ The canonical equations provide an equivalent description of the system's dynami
 
 ## Examples:
 
+### Simple Pendulum Phase Space Diagram
+
+[simple_pendulum_phase_space.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/simple_pendulum_phase_space.ipynb)
+
 ### Doble pendulum Hamiltonian, Equations of motion and Numerical Solution
 
 [double_pendulum_hamiltonian.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/double_pendulum_hamiltonian.ipynb)
@@ -27,9 +31,7 @@ The canonical equations provide an equivalent description of the system's dynami
 
 [jacobi_identity.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/jacobi_identity.ipynb)
 
-### Simple Pendulum Phase Space Diagram
 
-[simple_pendulum_phase_space.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/simple_pendulum_phase_space.ipynb)
 
 ## Challenges:
 
