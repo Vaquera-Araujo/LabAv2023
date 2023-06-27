@@ -32,7 +32,6 @@ The canonical equations provide an equivalent description of the system's dynami
 [jacobi_identity.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/jacobi_identity.ipynb)
 
 
-
 ## Challenges:
 
 Obtain the canonical equations and obtain the numerical solution for problems 2, 3 and 4 in page 11 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics) L. Landau, and E. Lifshitz. Butterworth-Heinemann, 3 edition, (Jan 15, 1976).
