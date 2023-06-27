@@ -9,3 +9,5 @@ The notebooks in this section are devoted to the solution of physics problems us
 [Hamiltonian Formalism and Canonical Equations](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Hamiltionian%20Formalism%20and%20Canonical%20Equations/readme.md)
 
 [Schrödinger Equation in One Dimension](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/readme.md)
+
+[Time Independent Perturbation Theory](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/readme.md)
