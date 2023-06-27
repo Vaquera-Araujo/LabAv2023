@@ -34,4 +34,4 @@ The canonical equations provide an equivalent description of the system's dynami
 
 ## Challenges:
 
-Obtain the canonical equations and obtain the numerical solution for problems 2, 3 and 4 in page 11 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics) L. Landau, and E. Lifshitz. Butterworth-Heinemann, 3 edition, (Jan 15, 1976).
+Find the canonical equations and obtain the numerical solution for problems 2, 3 and 4 in page 11 of Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics) L. Landau, and E. Lifshitz. Butterworth-Heinemann, 3 edition, (Jan 15, 1976).
