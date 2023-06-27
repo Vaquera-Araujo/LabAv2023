@@ -29,6 +29,10 @@ or equivalently
 $$x(t)=C_1 e^{i\omega t}+C_2 e^{-i\omega t},$$
 
 where the constants $C$, $\delta$, $C_1$, and $C_2$ are determined by the initial conditions.
+## Examples
+
+### Symbolic solution to the Simple Harmonic Oscillator Equation of Motion
+[solution_simple_harmonic_oscillator.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Small%20Oscillations/solution_simple_harmonic_oscillator.ipynb)
 
 ## Linearized equations of motion
 Now, consider a system with $n$ degrees of freedom characterized by the generalized coordinates $q_i$, with a time independent scalar potential $U(q_i)$ displaying a strict local minimum at $q^0_i$ and rescaled such that $U(q_i^0)=0$. Using a standard particle Lagrangian, the kinetic energy is a quadratic function of the velocities, provided that the generalized coordinates are time-independent functions of the Cartesian coordinates. Then, generalizing the  previous results, the Lagrangian can be approximated to second order in the perturbation expansion around equilibrium by
@@ -71,9 +75,6 @@ for the normal coordinates $\ket{\zeta}=O_W^TM_D^{1/2}O_M^T\ket{x}\equiv S^{-1}\
 $\zeta_i(t)=C_i\cos(\omega_i t+\delta_i)$ for $\omega_i>0$, and $\zeta_i(t)=c_i+v_i t$ for the zero frequency modes with $\omega_i=0$.
 
 ## Examples
-
-### Symbolic solution to the Simple Harmonic Oscillator Equation of Motion
-[solution_simple_harmonic_oscillator.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Small%20Oscillations/solution_simple_harmonic_oscillator.ipynb)
 
 ### Linear Triatomic Molecule
 ![linear triatomic diagram](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Small%20Oscillations/linear_triatomic_molecule.png)
