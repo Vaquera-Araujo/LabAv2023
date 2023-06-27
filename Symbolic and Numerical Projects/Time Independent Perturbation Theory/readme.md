@@ -42,3 +42,8 @@ $$
 
 Perturbation theory provides increasingly accurate approximations as higher-order corrections are included. However, the convergence of the series depends on the strength of the perturbation and the energy differences between eigenstates. In cases where the perturbation is strong or the energy denominators are small, other methods such as variational approaches or numerical techniques may be more suitable.
 
+## Examples
+
+Relativistic Corrections to the  1-D Simple Harmonic Oscillator
+
+[relativistic_corrections_sho.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/relativistic_corrections_sho.ipynb)
