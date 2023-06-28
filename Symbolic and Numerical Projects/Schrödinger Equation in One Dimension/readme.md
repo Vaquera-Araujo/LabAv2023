@@ -33,6 +33,6 @@ Numerical Solution to the Time Dependent Schrödinger Equation: Harmonic Oscilla
 
 ## Challenges
 
-Solve numerically the time independent Schrödinger equation for the potential of problems 6.1, 6.2 and 6.3 of Solved Problems in Quantum Mechanics, Leonardo Angelini, Springer International Publishing, 2019.
+Solve numerically the time independent Schrödinger equation for the potential of problems 6.1, 6.2 and 6.3 of Solved Problems in Quantum Mechanics, Leonardo Angelini, Second Edition, Springer International Publishing, 2019.
 
 Solve numerically the time dependent Schrödinger equation for a step potential, and adjust the step parameters to have both transmission and reflection of the wave function.
