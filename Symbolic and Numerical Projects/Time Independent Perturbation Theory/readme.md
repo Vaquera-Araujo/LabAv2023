@@ -24,11 +24,11 @@ $$\delta E_n=\delta_1 E_n+\delta_2 E_n+\cdots, \qquad \ket{\delta n}=\ket{\delta
 
 In absence of degeneracy, the shifts at first order are
 
-$$\delta_1 E_n=\bra{n^{(0)}}\delta H\ket{n^{(0)}}.$$
+$$\delta_1 E_n=\bra{n^{(0)}}\delta_1 H\ket{n^{(0)}}.$$
 
 and
 
-$$\ket{\delta_1 n}=\sum_{l\neq n}\frac{\bra{l^{(0)}}\delta H\ket{n^{(0)}}}{E_n^{(0)}-E_l^{(0)}}\ket{l^{(0)}}.$$
+$$\ket{\delta_1 n}=\sum_{l\neq n}\frac{\bra{l^{(0)}}\delta_1 H\ket{n^{(0)}}}{E_n^{(0)}-E_l^{(0)}}\ket{l^{(0)}}.$$
 
 At second order, we have
 
@@ -47,3 +47,7 @@ Perturbation theory provides increasingly accurate approximations as higher-orde
 Relativistic Corrections to the  1-D Simple Harmonic Oscillator
 
 [relativistic_corrections_sho.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/relativistic_corrections_sho.ipynb)
+
+## Challenges
+
+Find the first and second order shifts in energy and in states of a simple harmonic oscillator perturbed by a cubic term in the potential of the form $\epsilon x^3$
