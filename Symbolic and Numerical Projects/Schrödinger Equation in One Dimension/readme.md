@@ -26,6 +26,13 @@ Numerical Solution to the Time Independent Schrödinger equation: Anharmonic Osc
 
 [numerical_time_independent_schrodinger_equation.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/numerical_time_independent_schrodinger_equation.ipynb)
 
+
 Numerical Solution to the Time Dependent Schrödinger Equation: Harmonic Oscillator
 
 [numerical_time_dependent_quantum_harmonic_oscillator.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Schr%C3%B6dinger%20Equation%20in%20One%20Dimension/numerical_time_dependent_quantum_harmonic_oscillator.ipynb)
+
+## Challenges
+
+Solve numerically the time independent Schrödinger equation for the potential of problems 6.1, 6.2 and 6.3 of Solved Problems in Quantum Mechanics, Leonardo Angelini, Springer International Publishing, 2019.
+
+Solve numerically the time dependent Schrödinger equation for a step potential, and adjust the step parameters to have both transmission and reflection of the wave function.
