@@ -57,3 +57,6 @@ Two Dimensional Isotropic Harmonic Oscillator with Coupled Degrees of Freedom
 ## Challenges
 
 Find the first and second order shifts in energy and in states of a simple harmonic oscillator perturbed by a cubic term in the potential of the form $\epsilon x^3$
+
+
+Solve Problem 6.3 of Modern Quantum Mechanics, J. J. Sakurai, Jim Napolitano, Second Edition, Cambridge University Press, Cambridge, 2017
