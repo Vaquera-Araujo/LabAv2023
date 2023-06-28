@@ -40,6 +40,8 @@ $$\ket{\delta_2 n}=\sum_{l\neq n}\frac{\ket{l^{(0)}}}{E_n^{(0)}-E_l^{(0)}}\bigg[
 \frac{\bra{l^{(0)}}\delta_1 H\ket{j^{(0)}}\bra{j^{(0)}}\delta_1 H\ket{n^{(0)}}}{E_n^{(0)}-E_{j}^{(0)}}-\delta_1 E_n\frac{\bra{l^{(0)}}\delta_1 H\ket{n^{(0)}}}{E_n^{(0)}-E_l^{(0)}}+\bra{l^{(0)}}\delta_2H\ket{ n^{(0)}}\bigg]-\frac{1}{2}\sum_{l\neq n}\left|\frac{\bra{l^{(0)}}\delta_1 H\ket{n^{(0)}}}{E_n^{(0)}-E_l^{(0)}}\right|^2\ket{n^{(0)}}.
 $$
 
+In presence of degeneracy, the energy shifts can be obtained by diagonalizing the perturbation with respect to each degenerate subspace. If the degeneracy is broken by the perturbation, the shifts on the states can be calculated at next order in perturbation theory.
+
 Perturbation theory provides increasingly accurate approximations as higher-order corrections are included. However, the convergence of the series depends on the strength of the perturbation and the energy differences between eigenstates. In cases where the perturbation is strong or the energy denominators are small, other methods such as variational approaches or numerical techniques may be more suitable.
 
 ## Examples
@@ -47,6 +49,9 @@ Perturbation theory provides increasingly accurate approximations as higher-orde
 Relativistic Corrections to the  1-D Simple Harmonic Oscillator
 
 [relativistic_corrections_sho.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/relativistic_corrections_sho.ipynb)
+
+Two Dimensional Isotropic Harmonic Oscillator with Coupled Degrees of Freedom
+[two_dimensional_ho_coupled_dof.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/two_dimensional_ho_coupled_dof.ipynb)
 
 ## Challenges
 
