@@ -51,6 +51,7 @@ Relativistic Corrections to the  1-D Simple Harmonic Oscillator
 [relativistic_corrections_sho.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/relativistic_corrections_sho.ipynb)
 
 Two Dimensional Isotropic Harmonic Oscillator with Coupled Degrees of Freedom
+
 [two_dimensional_ho_coupled_dof.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/two_dimensional_ho_coupled_dof.ipynb)
 
 ## Challenges
