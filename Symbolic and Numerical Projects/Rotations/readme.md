@@ -81,6 +81,22 @@ q_1 q_2=&w_1 w_2 - x_1 x_2 - y_1  y_2 - z_1 z_2\\
 \end{split}
 ```
 
+## Euler-Rodrigues Formula
+It can be shown that the general rotation of a vector $\mathbf{r}$ through an angle $\theta$ around the axis $\widehat{\mathbf{n}}$ is given by the Euler-Rodrigues formula
+
+$$\mathbf{r}'=\mathbf{r} \cos\theta+\widehat{\mathbf{n}}\times \mathbf{r}\sin\theta+(\widehat{\mathbf{n}}\cdot \mathbf{r})\widehat{\mathbf{n}}(1-\cos\theta)$$
+
 ## Examples
+
+SO(2): Group of Proper Rotations on the Plane
+[SO(2).ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/SO(2).ipynb)
+
+SO(3) and SU(2) Local Isomorphism
+[SO(3)_and_SU(2).ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/SO(3)_and_SU(2).ipynb)
+
+Quaternion Rotation and Euler-Rodrigues Formula
+[quaternion_rotation_rodrigues_formula.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/quaternion_rotation_rodrigues_formula.ipynb)
+
+
 
 
