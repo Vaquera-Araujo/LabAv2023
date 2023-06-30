@@ -100,7 +100,7 @@ Quaternion Rotation and Euler-Rodrigues Formula
 
 ## Challenges
 
-Write a Jupyter Notebook for the Calculation of the $su(3)$ and $so(4)$ Algebras
+Write a Jupyter Notebook for the Determination of the $su(3)$ and $so(4)$ Lie Algebras
 
 Implement a Numerical Version of the Quaternion Rotation
 
