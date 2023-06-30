@@ -13,3 +13,5 @@ The notebooks in this section are devoted to the solution of physics problems us
 [Time Independent Perturbation Theory](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Time%20Independent%20Perturbation%20Theory/readme.md)
 
 [Rotations](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/readme.md)
+
+[Clebsch-Gordan Coefficients](https://github.com/Vaquera-Araujo/LabAv2023/tree/main/Symbolic%20and%20Numerical%20Projects/Clebsch-Gordan%20Coefficients/readme.md)
