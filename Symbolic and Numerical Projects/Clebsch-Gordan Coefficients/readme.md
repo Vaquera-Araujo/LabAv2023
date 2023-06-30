@@ -32,7 +32,7 @@ The total angular momentum eigenstates can be obtained by combining the individu
 
 ## Clebsch-Gordan Coefficients
 
-The Clebsch-Gordan coefficients, denoted as C(j_1, m_1; j_2, m_2 | J, M), relate the individual angular momentum quantum numbers $(j_1,j_2)$ and their corresponding magnetic quantum numbers $(m_1,m_2)$  to the total angular momentum quantum numbers (J, M).
+The Clebsch-Gordan coefficients, denoted as $C(j_1, m_1; j_2, m_2 | J, M)$, relate the individual angular momentum quantum numbers $(j_1,j_2)$ and their corresponding magnetic quantum numbers $(m_1,m_2)$  to the total angular momentum quantum numbers (J, M).
 
 These coefficients can be used to express the total angular momentum eigenstates in terms of the individual angular momentum states. Mathematically, this relationship is given by:
 
@@ -42,6 +42,7 @@ $$|J, m⟩ = \sum_{m_1, m_2} C(j_1, m_1; j_2, m_2 | J, M) |j_1, m_1⟩ \otimes |
 ## Examples
 
 Symbolic Calculation of a Table of Clebsch-Gordan Coefficients in the Sum of any Pair of Spins
+
 [clebsch.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Clebsch-Gordan%20Coefficients/clebsch.ipynb)
 
 ## Challenges
