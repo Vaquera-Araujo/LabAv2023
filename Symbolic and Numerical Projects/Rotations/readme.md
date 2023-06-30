@@ -98,5 +98,13 @@ Quaternion Rotation and Euler-Rodrigues Formula
 [quaternion_rotation_rodrigues_formula.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/quaternion_rotation_rodrigues_formula.ipynb)
 
 
+## Challenges
+
+Write a Jupyter Notebook for the Calculation of the $su(3)$ and $so(4)$ Algebras
+
+Implement a Numerical Version of the Quaternion Rotation
+
+
+
 
 
