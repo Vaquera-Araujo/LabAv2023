@@ -105,6 +105,3 @@ Write a Jupyter Notebook for the Determination of the $su(3)$ and $so(4)$ Lie Al
 Implement a Numerical Version of the Quaternion Rotation
 
 
-
-
-
