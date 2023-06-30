@@ -39,3 +39,11 @@ These coefficients can be used to express the total angular momentum eigenstates
 
 $$|J, m⟩ = \sum_{m_1, m_2} C(j_1, m_1; j_2, m_2 | J, M) |j_1, m_1⟩ \otimes |j_2, m_2⟩.$$
 
+## Examples
+
+Symbolic Calculation of a Table of Clebsch-Gordan Coefficients in the Sum of any Pair of Spins
+[clebsch.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Clebsch-Gordan%20Coefficients/clebsch.ipynb)
+
+## Challenges
+
+Write a Numeric Version of the Example.
