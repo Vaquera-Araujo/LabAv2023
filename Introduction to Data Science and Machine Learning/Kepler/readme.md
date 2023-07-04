@@ -5,6 +5,7 @@
 
 - Dataframe Cleanning and Filtering
 - Estimators of Location, Variability and Bias
+- Frequency Table
 - Visualization of Numerical Data 
 
 
@@ -30,4 +31,6 @@
 -Other Supervised Algorithms for Regression
 -Overfitting
 -Gravitational Constant Estimation
+
+[kepler_linear.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/Kepler/kepler_linear.ipynb)
 
