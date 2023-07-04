@@ -15,3 +15,7 @@ The notebooks in this section are devoted to the solution of physics problems us
 [Rotations](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/readme.md)
 
 [Clebsch-Gordan Coefficients](https://github.com/Vaquera-Araujo/LabAv2023/tree/main/Symbolic%20and%20Numerical%20Projects/Clebsch-Gordan%20Coefficients/readme.md)
+
+Assistance in the elaboration of the notebooks by the following students is acknowleged:
+-Andrea Alejandra Aguilar Mayorga
+
