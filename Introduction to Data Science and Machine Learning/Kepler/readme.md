@@ -20,6 +20,14 @@
 
 ## Analysis of the Categorical Variables and A/B Tests
 - Barplots and Violinplots
-- Student's t Test
+- Variance test
+- t Test
 
 [kepler_categorical_variables_t_test.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/Kepler/kepler_categorical_variables_t_test.ipynb)
+
+## Kepler's Third Law From a Multiple Linear Regression
+-Linear Regression
+-Other Supervised Algorithms for Regression
+-Overfitting
+-Gravitational Constant Estimation
+
