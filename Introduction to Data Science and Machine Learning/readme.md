@@ -15,3 +15,12 @@ The jupyter notebooks of the project can be found in
 
 This project was developed in collaboration with
 Bertha Alicia Domínguez Díaz and Andrea Lagunes Kern
+
+Assistance in the elaboration of the notebooks by the following students is acknowleged:
+
+- Mara Alondra Flores Carranza
+- Ana Elizabeth Flores González
+- Saúl Alí Caudillo Rodríguez
+- Miguel Ángel Flores Estrada
+- Julio César Olmos Gómez
+- Josué Vergara Ruvalcaba
