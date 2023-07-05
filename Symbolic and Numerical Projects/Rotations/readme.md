@@ -88,13 +88,16 @@ $$\mathbf{r}'=\mathbf{r} \cos\theta+\widehat{\mathbf{n}}\times \mathbf{r}\sin\th
 
 ## Examples
 
-SO(2): Group of Proper Rotations on the Plane
+### SO(2): Group of Proper Rotations on the Plane
+
 [SO(2).ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/SO(2).ipynb)
 
-SO(3) and SU(2) Local Isomorphism
+### SO(3) and SU(2) Local Isomorphism
+
 [SO(3)_and_SU(2).ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/SO(3)_and_SU(2).ipynb)
 
-Quaternion Rotation and Euler-Rodrigues Formula
+### Quaternion Rotation and Euler-Rodrigues Formula
+
 [quaternion_rotation_rodrigues_formula.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Symbolic%20and%20Numerical%20Projects/Rotations/quaternion_rotation_rodrigues_formula.ipynb)
 
 
