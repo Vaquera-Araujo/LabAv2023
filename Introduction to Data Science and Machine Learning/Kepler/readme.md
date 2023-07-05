@@ -25,6 +25,9 @@ Challenge: Repeat The Analysis for the Period.
 
 ## Analysis of the Categorical Variables and A/B Tests
 - Barplots and Violinplots
+- A/B tests
+- Null Hypothesis and Alternative Hypothesis
+- p-value
 - Variance test
 - t Test
 
