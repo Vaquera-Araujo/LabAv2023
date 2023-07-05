@@ -55,7 +55,7 @@ Challenge: Modify the Parameters of the single neuron and try to obtain a better
 - Multi-layer Perceptron
 - Artificial Neural Network
 
-[kepler_classification.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/Kepler/kepler_classification.ipynb)
+[kepler_supervised_classification.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/Kepler/kepler_supervised_classification.ipynb)
   
 Challenge: Modify the Parameters of the different classifiers and try to obtain a better model.
 
