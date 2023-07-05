@@ -1,8 +1,13 @@
 # Introduction to Data Science and Machine Learning
 
-In this section you can find an Introductory Machine Learning Project for the Analysis of the Cumulative Dataframe of the Kepler Objects of Interest found in
+In this section you can find an Introductory Machine Learning Project for the Analysis of the Cumulative Dataframe of the Kepler Objects of Interest in
 
 [Kepler Objects of Interest](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
+
+A copy of the database can be accessed here:
+
+[cumulative_2023.07.04_20.07.59.csv](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/cumulative_2023.07.04_20.07.59.csv)
+
 
 The jupyter notebooks of the project can be found in
 
