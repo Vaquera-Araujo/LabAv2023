@@ -18,5 +18,12 @@ The notebooks in this section are devoted to the solution of physics problems us
 
 Assistance in the elaboration of the notebooks by the following students is acknowleged:
 
--Andrea Alejandra Aguilar Mayorga
+- Andrea Alejandra Aguilar Mayorga
+- Mara Alondra Flores Carranza
+- Ana Elizabeth Flores González
+- Saúl Alí Caudillo Rodríguez
+- Miguel Ángel Flores Estrada
+- Julio César Olmos Gómez
+- Josué Vergara Ruvalcaba
+
 
