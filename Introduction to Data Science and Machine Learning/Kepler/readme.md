@@ -59,3 +59,9 @@ Challenge: Modify the Parameters of the single neuron and try to obtain a better
   
 Challenge: Modify the Parameters of the different classifiers and try to obtain a better model.
 
+## Machine Learning: Unsupervised Classification
+- K-means
+- Elbow Method
+
+[kepler_unsupervised_classification.ipynb](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/Kepler/kepler_unsupervised_classification.ipynb) 
+
