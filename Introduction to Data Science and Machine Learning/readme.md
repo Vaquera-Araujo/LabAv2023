@@ -4,7 +4,7 @@ In this section you can find an Introductory Machine Learning Project for the An
 
 https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative
 
-A copy of the database can be accessed here:
+A copy of the database at the time of the study can be accessed here:
 
 [cumulative_2023.07.04_20.07.59.csv](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/cumulative_2023.07.04_20.07.59.csv)
 
