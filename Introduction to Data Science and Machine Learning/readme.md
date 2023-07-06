@@ -2,7 +2,7 @@
 
 In this section you can find an Introductory Machine Learning Project for the Analysis of the Cumulative Dataframe of the Kepler Objects of Interest in
 
-[Kepler Objects of Interest](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative)
+https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative
 
 A copy of the database can be accessed here:
 
