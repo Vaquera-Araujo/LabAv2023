@@ -9,4 +9,4 @@ All the notebooks were produced in Google Colab.
 [Introduction to Data Sience and Machine Learning](https://github.com/Vaquera-Araujo/LabAv2023/tree/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning)
 
 
-This material is made available under a CC-BY licence https://creativecommons.org/licenses/by/4.0/
+
