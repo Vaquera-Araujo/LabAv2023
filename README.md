@@ -1,6 +1,6 @@
 # Computational Physics with Python
 
-Here you can find the code developed for the Advanced Laboratory 2023 of the Master in Physics program at División de Ciencias e Ingenierías de la Universidad de Guanajuato by Carlos Alberto Vaquera Araujo.
+Here you can find the code developed for the Master in Physics Advanced Lab, Summer 2023, at División de Ciencias e Ingenierías de la Universidad de Guanajuato (DCI-UG) by Carlos Alberto Vaquera Araujo.
 
 All the jupyter notebooks were produced in Google Colab.
 
