@@ -14,7 +14,7 @@ The jupyter notebooks of the project can be found in
 [Exploring Exoplanets with Python](https://github.com/Vaquera-Araujo/LabAv2023/blob/main/Introduction%20to%20Data%20Science%20and%20Machine%20Learning/Kepler/readme.md)
 
 This project was developed in collaboration with
-Bertha Alicia Domínguez Díaz and Andrea Lagunes Kern
+**Bertha Alicia Domínguez Díaz** and **Andrea Lagunes Kern**
 
 Assistance in the elaboration of the notebooks by the following students is acknowleged:
 
